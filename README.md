@@ -1,4 +1,4 @@
-## Hi there,this is Nandan Pathak!! 👋
+## Hi there, this is Nandan Pathak!! 👋
 
 <!--
 **nandanpathakk/nandanpathakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
